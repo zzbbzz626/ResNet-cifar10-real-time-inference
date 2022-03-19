@@ -11,3 +11,5 @@ train&test in main.py
 Universal inference in pre_resnet50.py
 
 Camera real-time inference in camera_pre.py
+
+Download cifar-10-python.tar.gz
